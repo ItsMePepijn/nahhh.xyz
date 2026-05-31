@@ -1,6 +1,4 @@
-# [nahhh.xyz](https://nahhh.xyz)
-
-## Nahhh as a service.
+# [nahhh.xyz](https://nahhh.xyz) - Nahhh as a service.
 
 Soft pass. No stress.
 
