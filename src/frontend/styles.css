@@ -64,6 +64,23 @@ body {
   font-weight: 500;
 }
 
+.api-callout {
+  margin: 0;
+  font-size: 0.95rem;
+  color: rgba(17, 17, 17, 0.6);
+}
+
+.api-callout a {
+  color: var(--accent-dark);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.api-callout a:hover,
+.api-callout a:focus {
+  text-decoration: underline;
+}
+
 .site-footer {
   font-size: 0.7rem;
   letter-spacing: 0.05em;
